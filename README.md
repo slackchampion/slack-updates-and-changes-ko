@@ -1,5 +1,6 @@
 # slack-updates-and-changes-ko
-[Slack-updates-and-changes](https://slack.com/help/articles/115004846068-Slack-updates-and-changes) 를 한국어로 쉽게 풀어쓴다.
+- [Slack-updates-and-changes](https://slack.com/help/articles/115004846068-Slack-updates-and-changes) 를 한국어로 쉽게 풀어씁니다.
+- [https://github.com/slackchampion/slack-updates-and-changes-ko](https://github.com/slackchampion/slack-updates-and-changes-ko) 에 직접 기여할 수 있습니다.
 
 # 2023년 03월
 ## 개인용 Todo 기능 (슬랙 네이티브)
@@ -21,8 +22,6 @@
 
 ## 비공개 => 공개 채널 전환 기능
 비공개 => 공개 채널 전환 기능이 추가되었습니다. (슬랙 관리자만 변경 가능)  
-만약 비공개 => 공개 채널로 전환이 필요하다면, 비공개 채널에 슬랙 관리자를 초대해서 공개 채널로 변경해달라고 해야합니다.  
-비공개 => 공개, 다시 공개 => 비공개 로 계속 전환할 수 있습니다.
 > 채널명 클릭 > Settings > Change to a public channel
 
 ![privatetopublic](https://user-images.githubusercontent.com/18473861/222736389-315e8224-c526-42d1-84c7-c1d7d39af8a8.png)
@@ -37,10 +36,15 @@ When approval is required for Slack Connect channels, invitation requests can be
 
 ![mobile_ss](https://user-images.githubusercontent.com/18473861/222739939-53e70372-8f06-4a4d-bc39-688cf41bd9ab.png)
 
+## DM방 멤버 이름과 멤버 이메일 복사
+DM방의 멤버 이름과 멤버 이메일을 일괄로 가져올 수 있습니다.
+> DM방명 클릭 > Settings > 멤버 이름 복사 or 멤버 이메일 주소 복사
+
+![dm_room_info](https://user-images.githubusercontent.com/18473861/222939441-b514f16b-2af0-493f-88ee-49a3a2d9dc53.png)
+
 ## Other news
 - On paid plans, choose to filter your Unreads based on your sidebar sections.
 - Once you’ve joined 30 channels, your sidebar settings will switch to Unreads Only to keep things nice and tidy.
-- Copy the names and email addresses of everyone in a DM, all at once. 
 - Use data loss prevention (DLP) for Slack Connect to keep your Enterprise Grid organization’s data secure.
 
 ## 
@@ -48,6 +52,11 @@ When approval is required for Slack Connect channels, invitation requests can be
 # 2023년 01월
 ## Manage Slack Connect invitations on the go
 View any invitations to work with others in Slack Connect channels and DMs from your mobile device.
+
+## 오디오, 비디오 클립 자동 스크립트 생성
+오디오, 비디오 파일이 추가되면 자동으로 스크립트가 생성됩니다.
+
+![auto_script](https://user-images.githubusercontent.com/18473861/222939733-d6d9f8b8-625d-4f39-bbde-429a0e37ed18.png)
+
 ## Other news
 - Tap Huddles at the top of your sidebar on mobile to view active huddles (and join, if you’d like!)
-- All clips shared in Slack now include a transcript preview.
