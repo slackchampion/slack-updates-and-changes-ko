@@ -3,14 +3,13 @@
 - [https://github.com/slackchampion/slack-updates-and-changes-ko](https://github.com/slackchampion/slack-updates-and-changes-ko) 에 직접 기여할 수 있습니다.
 
 # 2023년 03월
-## 개인용 Todo 기능 (슬랙 네이티브)
+## Slack Later 기능 (ToDo 관리)
 1. 나중을 위해 저장 // 나중을 위해 ≒ 저장된 항목 
-2. 나중에 탭에서 확인
+2. 나중에(Later) 탭에서 확인
 3. 시계 모양 > 리마인더 시간 설정 // 이 시간 설정값이 Due Date 으로 맵핑됨
 4. 보관됨 <-> 진행중 <-> 완료됨 (e.g todo, inprogress, done)
 
-※ 슬랙 네이티브 : 슬랙 본연의 기능으로
-
+[![Slack Later 기능 (ToDo 관리)](https://img.youtube.com/vi/3wvC1Wc3VNE/0.jpg)](https://www.youtube.com/watch?v=3wvC1Wc3VNE&autoplay=1)
 ![slack_todo](https://user-images.githubusercontent.com/18473861/222742509-815e2865-8ed1-4549-9295-200e9bcaa77a.png)
 
 # 2023년 02월
